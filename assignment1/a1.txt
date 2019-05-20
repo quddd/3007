@@ -1,0 +1,12 @@
+
+	QUDUS AGBALAYA (Prince)
+	101007487
+
+Developed under R5RS, dr racket
+
+Run code by clicking run 
+
+No major assumptions
+
+
+
